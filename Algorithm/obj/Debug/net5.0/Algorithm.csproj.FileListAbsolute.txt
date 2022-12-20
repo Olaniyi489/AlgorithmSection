@@ -1,0 +1,16 @@
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\bin\Debug\net5.0\Algorithm.exe
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\bin\Debug\net5.0\Algorithm.deps.json
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\bin\Debug\net5.0\Algorithm.runtimeconfig.json
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\bin\Debug\net5.0\Algorithm.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\bin\Debug\net5.0\Algorithm.dll
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\bin\Debug\net5.0\ref\Algorithm.dll
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\bin\Debug\net5.0\Algorithm.pdb
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.dll
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\ref\Algorithm.dll
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.pdb
+C:\Users\Decagon\source\repos\Algorithm\Algorithm\obj\Debug\net5.0\Algorithm.genruntimeconfig.cache
